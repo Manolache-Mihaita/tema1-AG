@@ -1,0 +1,12 @@
+﻿  tema1'AG.cpp
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(48): warning C4305: '=': truncation from '__int64' to 'double'
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(65): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(201): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(261): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(264): warning C4101: 'Bit': unreferenced local variable
+c:\users\manol\source\repos\tema1'ag\tema1'ag\tema1'ag.cpp(360): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tema1'AG.vcxproj -> C:\Users\manol\source\repos\tema1'AG\Debug\tema1'AG.exe
